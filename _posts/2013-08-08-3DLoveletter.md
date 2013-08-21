@@ -14,8 +14,7 @@ tags : [math, R]
 And here is the gift to my girlfriend.
 
 ####3d loveletter
-<img src="http://fmn.rrimg.com/fmn066/20130807/1410/original_nmJD_153e000111c81191.gif" width="500" height="500">
-<iframe src="https://skydrive.live.com/embed?cid=1F329DBD33DDBE26&resid=1F329DBD33DDBE26%21660&authkey=ALt2nnXC9cwvQWc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
+<img src="http://i.imgur.com/CkNRhNC.gif" width="500" height="500">
 
 
 ####code

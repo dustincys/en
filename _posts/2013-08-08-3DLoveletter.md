@@ -19,7 +19,7 @@ And here is the gift to my girlfriend.
 
 ####code
 
-
+{% highlight r %}
 	require(rgl)
 	beta<-matrix(seq(0, 2*pi, len=50),50,50)
 	r<-16*sin(t(beta/2))^3
@@ -33,7 +33,7 @@ And here is the gift to my girlfriend.
 	text3d(0, y =-10, z = -5, texts="I love you",col="hotpink")
 	M <- par3d("userMatrix")
 	movie3d( spin3d(), duration=5 )
-
+{% endhighlight %}
 
 
 ####reference

@@ -15,12 +15,11 @@ And here is the gift to my girlfriend.
 
 ####3d loveletter
 <img src="http://i.imgur.com/CkNRhNC.gif" width="500" height="500">
-<iframe src="https://skydrive.live.com/embed?cid=1F329DBD33DDBE26&resid=1F329DBD33DDBE26%21660&authkey=ALt2nnXC9cwvQWc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
 
 
 ####code
 
-
+{% highlight r linenos%}
 	require(rgl)
 	beta<-matrix(seq(0, 2*pi, len=50),50,50)
 	r<-16*sin(t(beta/2))^3
@@ -34,7 +33,7 @@ And here is the gift to my girlfriend.
 	text3d(0, y =-10, z = -5, texts="I love you",col="hotpink")
 	M <- par3d("userMatrix")
 	movie3d( spin3d(), duration=5 )
-
+{% endhighlight %}
 
 
 ####reference

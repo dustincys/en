@@ -19,7 +19,7 @@ And here is the gift to my girlfriend.
 
 ####code
 
-{% highlight r linenos%}
+{% highlight r %}
 	require(rgl)
 	beta<-matrix(seq(0, 2*pi, len=50),50,50)
 	r<-16*sin(t(beta/2))^3

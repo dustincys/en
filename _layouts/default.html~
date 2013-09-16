@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/media/css/style.css">
     <link rel="stylesheet" href="/media/css/highlight.css">
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+<script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
   </head>
   <body>
     <div id="container">
@@ -17,12 +18,14 @@
         <h1>{{ page.title }}</h1>
         </header>
         <nav>
-        <span><a title="home page" class="" href="{{ site.url }}/">home</a></span>
-        <span><a title="about" class="" href="{{ site.url }}/about/">about</a></span>
-        <span><a title="vitae" class="" href="{{ site.url }}/vitae/">vitae</a></span>
+        <span><a title="home page" class="" href="{{ site.homepage }}/">home</a></span>
+        <span><a title="index" class="" href="{{ site.url }}/">index</a></span>
+        
         <span><a title="categories" class="" href="{{ site.url }}/categories/">categories</a></span>
         <span><a title="tags" class="" href="{{ site.url }}/tags/">tags</a></span>
-        <span><a title="subscribe by RSS" class="" href="{{ site.url }}/feed/">subscribe</a></span>
+<span><a title="vitae" class="" href="{{ site.url }}/vitae/">vitae</a></span>             
+<span><a title="subscribe by RSS" class="" href="{{ site.url }}/feed/">subscribe</a></span>
+<span><a title="about" class="" href="{{ site.url }}/about/">about</a></span>   
         </nav>
         <article class="content">
         {{ content }}

@@ -20,7 +20,6 @@
         <nav>
         <span><a title="home page" class="" href="{{ site.homepage }}/">home</a></span>
         <span><a title="index" class="" href="{{ site.url }}/">index</a></span>
-        
         <span><a title="categories" class="" href="{{ site.url }}/categories/">categories</a></span>
         <span><a title="tags" class="" href="{{ site.url }}/tags/">tags</a></span>
 <span><a title="vitae" class="" href="{{ site.url }}/vitae/">vitae</a></span>             

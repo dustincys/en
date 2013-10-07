@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 3D Loveletter
+comments: yes
+share: yes
 category : visualization
 tags : [math, R]
 ---

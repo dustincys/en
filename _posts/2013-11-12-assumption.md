@@ -13,7 +13,7 @@ Anyway, I found some bioinformatics papers present uncertain foundation in the b
 All the work of the paper base on these uncertain foundation which have not been proved or predicated true yet.
 Among these uncertain foundation, putative axioms perhaps show some logic fundamental, whereas the assumptions are just intuitively conceived.
 
-![paperfoundation](https://2s66lw.blu.livefilestore.com/y2p3BEV2A00tQayJ-0moJrVzIQv6xLhpPXn0MHFQmjZNnTpDPfmiOO8HFC6-f9bdsmCipWnOZE_VQAocrIDc3SnSwySGrKs0QJ0xCo-AfRIYPg/paperfoundation.jpg)
+ <img src="https://2s66lw.blu.livefilestore.com/y2p3BEV2A00tQayJ-0moJrVzIQv6xLhpPXn0MHFQmjZNnTpDPfmiOO8HFC6-f9bdsmCipWnOZE_VQAocrIDc3SnSwySGrKs0QJ0xCo-AfRIYPg/paperfoundation.jpg"  alt="paperfoundation" width = 400/>
 
 [This paper](http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt1295.html) (about disease and gene) bases on the assumption that
 

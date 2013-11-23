@@ -38,11 +38,11 @@ Here's another concept, inferior rate \\(r\\), represents the proportion of infe
 Boss came and said, "hey, how about the quality?" 
 Certain employee (Tom) gave an response, "inferior rate \\(p=0.05\\)", which means the possibility of every microchip being inferior is 0.05.
 Anyway, response proposed by untrustworthy employees sounds suspiciously like a lie, which makes the boss conduct a spot check.
-He randomly picked out \\(100,00\\) microchips (denoted by \\(\\mathbb{S}\\)), manually checked the quality of every microchip, at the end, he found out \\(32\\) inferior microchips.
+He randomly picked out 10,000 microchips (denoted by \\(\\mathbb{S}\\)), manually checked the quality of every microchip, at the end, he found out 32 inferior microchips.
 The boss thought that if few people are more untrustworthy than Tom, then, Tom is untrustworthy.
 So the boss calculated the probability of the sample being even more bizarre than this one as following,
 
-$$ p\\\_value = \\sum\\limits\_{i=0}^{31} C\_{100,00}^{i} p^{31} (1-p)^{100,00-31} = 4.851154e^{-173}. $$
+$$ p\\\_value = \\sum\\limits\_{i=0}^{31} C\_{10,000}^{i} p^{31} (1-p)^{10,000-31} = 4.851154e^{-173}. $$
 
 obviously, \\(p\\\_value\\) is so small that approximately equals 0.
 According to this result, the boss presumably considered Tom didn't tell him the truth.

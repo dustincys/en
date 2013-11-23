@@ -42,7 +42,7 @@ He randomly picked out \\(100,00\\) microchips (denoted by \\(\\mathbb{S}\\)), m
 The boss thought that if few people are more untrustworthy than Tom, then, Tom is untrustworthy.
 So the boss calculated the probability of the sample being even more bizarre than this one as following,
 
-$$p\\_{value}=\\sum\\limits_{i=0}^{31}C_{100,00}^{i}p^{31}(1-p)^{100,00-31}=4.851154e^{-173}.$$
+$$ p \\_{value} = \\sum\\limits_{i=0}^{31} C_{100,00}^{i} p^{31} (1-p)^{100,00-31} = 4.851154e^{-173}. $$
 
 obviously, \\(p\\_value\\) is so small that approximately equals 0.
 According to this result, the boss presumably considered Tom didn't tell him the truth.

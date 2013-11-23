@@ -30,7 +30,7 @@ To visualize this network and adjust it smoothly, we need a PC with large RAM (>
 We will find out the network is so complicated, nodes are highly connected, to analyse it will be far beyond the reach of human brain.
 
 We want to know whether the proteins in one module or motif in PPI network are coexpressed, we need to do some mathematical statistics.
-The commonly used statistics and probability theories to analyse the network includes \\(\\chi^2\\) test, hyper geometric test, student's t test.
+The commonly used statistics and probability theories to analyse the network includes \\(\\chi\^2\\) test, hyper geometric test, student's t test.
 
 To be simple and straightforward, the principle of these tests are just like an kind of spot check conducted by a boss .
 Suppose, employees in an microchip factory produced a new batch of microchips, let's say 1,000,000 chips, denoted by \\(\\mathbb{X}\\).

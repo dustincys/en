@@ -42,12 +42,12 @@ He randomly picked out \\(100,00\\) microchips (denoted by \\(\\mathbb{S}\\)), m
 The boss thought that if few people are more untrustworthy than Tom, then, Tom is untrustworthy.
 So the boss calculated the probability of the sample being even more bizarre than this one as following,
 
-$$ p\\_value = \\sum\\limits_{i=0}^{31} C_{100,00}^{i} p^{31} (1-p)^{100,00-31} = 4.851154e^{-173}. $$
+$$ p\\\_value = \\sum\\limits\_{i=0}^{31} C\_{100,00}^{i} p^{31} (1-p)^{100,00-31} = 4.851154e^{-173}. $$
 
-obviously, \\(p\\_value\\) is so small that approximately equals 0.
+obviously, \\(p\\\_value\\) is so small that approximately equals 0.
 According to this result, the boss presumably considered Tom didn't tell him the truth.
 
-Everything is uncertain, even when we have a very small \\(p\\_value\\), what we could merely proclaim is the hypothesis is presumably false.
+Everything is uncertain, even when we have a very small \\(p\\\_value\\), what we could merely proclaim is the hypothesis is presumably false.
 
 [DIP]: http://dip.doe-mbi.ucla.edu/dip/ 
 [R]: http://cran.r-project.org/ 

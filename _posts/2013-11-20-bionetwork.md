@@ -47,7 +47,7 @@ $$ p \\_{value} = \\sum\\limits_{i=0}^{31} C_{100,00}^{i} p^{31} (1-p)^{100,00-3
 obviously, \\(p\\_value\\) is so small that approximately equals 0.
 According to this result, the boss presumably considered Tom didn't tell him the truth.
 
-Everything is uncertain, even when we have a very small p value, what we could merely proclaim is the hypothesis is presumably false.
+Everything is uncertain, even when we have a very small \\(p\\_value\\), what we could merely proclaim is the hypothesis is presumably false.
 
 [DIP]: http://dip.doe-mbi.ucla.edu/dip/ 
 [R]: http://cran.r-project.org/ 

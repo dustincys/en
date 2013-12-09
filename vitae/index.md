@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vitae
+title: Curriculum Vitae
 ---
 
 # Chu Yanshuo

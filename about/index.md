@@ -4,6 +4,5 @@ title: About
 comments: no
 ---
 
-This blog theme forks at [Xie Yihui](http://yihui.name), a distinctive statistician.:
-
+This blog theme is forked from [Xie Yihui's blog](http://yihui.name), who's a distinctive statistician.
 

@@ -44,4 +44,4 @@ In addition to that function statement could be embedded in a function statement
 Usually, a project folder turns out to be full of interrelated `.py` files and intermediate files.
 It is hard to reuse the former script and data.
 
-Here, scripts makes life better and messier. 
+Here, script makes life better and messier. 

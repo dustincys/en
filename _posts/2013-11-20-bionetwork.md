@@ -4,7 +4,7 @@ category : bioinformatics
 title: Hardship of bio-network analysis
 comments: yes
 share: no
-tags : [Math]
+tags : [math]
 ---
 Any behaviour in any organism today is no longer simply an isolated process as decades before.
 Proteins are interacted, genes coexpressed, signal conduction network, and metabolism conduction network and also there are high level network base on these fundamental networks, such as disease network and drug network, all of them are interacted with each other, cross-talk, repress or promote and so on.

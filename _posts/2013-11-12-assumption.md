@@ -4,7 +4,7 @@ title: The "naughty" peripheral knowledge
 comments: yes
 share: yes
 category : bioinformatics
-tags : [Paper, Knowledge]
+tags : [paper, knowledge]
 ---
 
 Recently, a subtle but pretty weird idea waving in my mind, that is, there seems some kind of "peripheral" knowledge exerts a quite important role in bioinformatics paper.

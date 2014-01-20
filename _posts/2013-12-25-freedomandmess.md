@@ -1,10 +1,10 @@
 ---
 layout: post 
-category : Programming language
+category :  technology
 title: Messy script
 comments: yes
 share:  no
-tags : [Python, R, Comment,Annotation]
+tags : [python, r, comment,annotation]
 ---
  
 Try to annotate a bunch of scripts coded months ago, it is really inadvisable.

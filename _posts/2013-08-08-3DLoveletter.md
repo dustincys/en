@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3D Loveletter
+matheq: yes
 comments: yes
 share: yes
 category :  technology

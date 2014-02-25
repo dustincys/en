@@ -1,6 +1,7 @@
 ---
 layout: post 
 category : bioinformatics
+matheq: yes
 title: Hardship of bio-network analysis
 comments: yes
 share: no
